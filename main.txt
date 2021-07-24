@@ -1,3 +1,4 @@
 //Archivo Principal v1.0.0
 //Hotfix para archivo principal
 //Implementacion feature2
+//Continuacion y finalizacion feature2
